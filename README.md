@@ -15,8 +15,8 @@ A comprehensive collection of Natural Language Processing (NLP) preprocessing te
 
 ### Text Vectorization
 - ✅ CountVectorizer
-- ⏳ TfidfTransformer
-- ⏳ TfidfVectorizer
+- ✅ TfidfTransformer
+- ✅ TfidfVectorizer
 
 ### Text Preprocessing
 - ⏳ Tokenization
